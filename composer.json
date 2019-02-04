@@ -1,0 +1,15 @@
+{
+    "name": "louis/handen_van_licht",
+    "description": "Reservation system for Handen van Licht",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Louis Laureys",
+            "email": "louis@laureys.me"
+        }
+    ],
+    "require": {
+        "adodb/adodb-php": "^5.20",
+        "google/apiclient": "^2.0"
+    }
+}

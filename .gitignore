@@ -1,0 +1,9 @@
+includes/secrets.php
+calendar-auth/client_secrets.json
+vendor
+.tern-project
+.eslintrc.json
+
+.idea
+.vagrant/
+.vagrantuser
