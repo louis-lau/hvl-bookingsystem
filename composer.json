@@ -1,6 +1,6 @@
 {
-    "name": "louis/handen_van_licht",
-    "description": "Reservation system for Handen van Licht",
+    "name": "louis/hvl_bookingsystem",
+    "description": "Booking system for hvl",
     "type": "project",
     "authors": [
         {
